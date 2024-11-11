@@ -1,8 +1,8 @@
-package com.user_api.user_api.dto;
+package com.user_api.user_api.dtos;
 
 import java.time.LocalDateTime;
 
-import com.user_api.user_api.model.User;
+import com.user_api.user_api.models.User;
 
 import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.NotNull;

@@ -1,8 +1,8 @@
-package com.user_api.user_api.model;
+package com.user_api.user_api.models;
 
 import java.time.LocalDateTime;
 
-import com.user_api.user_api.dto.UserDTO;
+import com.user_api.user_api.dtos.UserDTO;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

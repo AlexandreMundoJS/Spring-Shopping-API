@@ -1,4 +1,4 @@
-package com.user_api.user_api.controller;
+package com.user_api.user_api.controllers;
 
 import java.time.LocalDateTime;
 import java.util.ArrayList;
@@ -16,7 +16,7 @@ import org.springframework.web.bind.annotation.ResponseStatus;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.server.ResponseStatusException;
 
-import com.user_api.user_api.dto.UserDTO;
+import com.user_api.user_api.dtos.UserDTO;
 
 import jakarta.annotation.PostConstruct;
 import jakarta.validation.Valid;
